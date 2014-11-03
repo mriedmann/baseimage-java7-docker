@@ -1,4 +1,4 @@
-FROM mriedmann/baseimage:0.1
+FROM mriedmann/baseimage:0.0.1
 MAINTAINER Michael Riedmann <michael_riedmann@live.com>
 
 # Basic Ubuntu-Env
